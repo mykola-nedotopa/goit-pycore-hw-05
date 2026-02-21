@@ -27,11 +27,3 @@ python .\lesson-8-home-work-task-4.py
 ```
 
 ````
-
-І одразу пуш:
-
-```powershell
-git add README.md
-git commit -m "Add README"
-git push
-````
